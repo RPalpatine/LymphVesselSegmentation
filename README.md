@@ -1,6 +1,7 @@
 # LymphVesselSegmentation
 U-Net based model for segmentation of lymph vessels using Keras
 
+The model is trained on 20 WSIs stained with podoplanin and labeled by a human annotator.
 
 See figures:
 
